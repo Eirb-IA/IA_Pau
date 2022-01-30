@@ -1,0 +1,8 @@
+opencv-python
+pycocotools
+debugpy
+scipy
+tqdm
+tensorboard
+imgaug
+psycopg2-binary
